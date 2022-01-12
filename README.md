@@ -4,13 +4,13 @@ A GitHub repository for us to use to practice branching and merging. Developed f
 
 ## Usage:
 
-For example, to calculate the square root of 25:
+For example, to calculate the square root of 16:
 ```
-python sqrt.py --n=25
+python sqrt.py --n=16
 ```
 
 ```
-5.0
+4.0
 ```
 
 ## Dependencies:
